@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Nie ucz sie kurwa tego
+          Branch feature dupa
         </a>
       </header>
     </div>
